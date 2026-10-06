@@ -1,0 +1,32 @@
+# Once a day, ask the live server for its instructions and commit them here if
+# they changed. Fetching what the server actually sends (rather than building
+# the text from source) means this repo can never show something the AI didn't
+# get. Can also be run by hand from the Actions tab.
+name: Sync instructions
+on:
+  schedule:
+    - cron: "17 8 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch the instructions the server sends
+        run: |
+          curl -sSf https://voterguidecommons.org/mcp \
+            -H 'content-type: application/json' \
+            -d '{"jsonrpc":"2.0","id":1,"method":"initialize","params":{"protocolVersion":"2025-06-18","capabilities":{},"clientInfo":{"name":"instructions-sync","version":"1"}}}' \
+            | jq -er '.result.instructions' > instructions.txt.new
+          test -s instructions.txt.new
+          mv instructions.txt.new instructions.txt
+      - name: Commit if they changed
+        run: |
+          if [ -z "$(git status --porcelain -- instructions.txt)" ]; then echo "No change."; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add instructions.txt
+          git commit -m "Instructions as served on $(date -u +%Y-%m-%d)"
+          git push

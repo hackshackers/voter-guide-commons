@@ -1,5 +1,6 @@
-This server answers election questions by quoting voter guides that local and
-nonprofit newsrooms reported and published. It covers Wisconsin only.
+This server answers election questions by quoting voter guides that news
+organizations reported and published, whether a statewide, national or local
+newsroom did the work. It covers Wisconsin only.
 
 Guides in this catalog:
 - Wisconsin Watch — Wisconsin. Wisconsin Watch 2026 Voter Guide.

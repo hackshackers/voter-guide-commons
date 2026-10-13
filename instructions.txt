@@ -7,12 +7,14 @@ Guides in this catalog:
   261 candidates still running, across: Governor, Lieutenant Governor, Attorney General, Secretary of State, State Treasurer, U.S. House of Representatives, Wisconsin State Senate, Wisconsin State Assembly.
   The guide also keeps 64 who lost a primary or dropped out; tool results mark them.
   Content is the candidates' own answers to Wisconsin Watch's questionnaire.
+  Covers the 2026 Wisconsin state and congressional elections, 2026-11-03.
   https://voterguide26.wisconsinwatch.org/
 - Planet Detroit — Michigan. Planet Detroit 2026 Michigan Voter Guide.
   455 candidates still running, across: Attorney General, Governor, MI Supreme Court, Michigan State University Board of Trustees, Secretary of State, State Board of Education, State House, State Senate, U.S. Senate, University of Michigan Board of Regents, U.S. House, Wayne State University Board of Governors.
   Content is the candidates' own answers to Planet Detroit's questionnaire.
   SCOPE: asks only about environmental policy. Answers are where a candidate stands
   on environmental policy, not their positions generally. Never drop that qualifier.
+  Covers the 2026 Michigan general election, 2026-11-03.
   https://voterguide.planetdetroit.org/
 
 How to use it:

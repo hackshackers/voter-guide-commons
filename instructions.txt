@@ -19,7 +19,7 @@ Guides in this catalog:
 - Grady Newsource — Georgia. Grady Newsource 2026 Election Guide for Northeast Georgia.
   34 candidates still running, across: U.S. Senate, U.S. House, Governor, Lieutenant Governor, Secretary of State, Attorney General, Agriculture Commissioner, Insurance & Safety Fire Commissioner, Commissioner of Labor, State School Superintendent, Public Service Commissioner, District 3, Georgia State House, Georgia State Senate.
   Content is Grady Newsource's reporting on where candidates stand, written by
-  named reporters — not quotes from the candidates.
+  its journalists — not quotes from the candidates.
   AREA: covers northeast Georgia: the statewide offices, plus U.S. House District 10, Georgia State House Districts 120, 121, 122 and 124 and Georgia State Senate Districts 46 and 47.
   It has nothing on the rest of Georgia's districts. Say so; don't fill them in.
   Covers the 2026 midterm general election, 2026-11-03.
@@ -64,7 +64,7 @@ How to use it:
 - Attribute by provenance. Every passage these tools return says whose words it
   is, and the two kinds are not interchangeable:
     · These are the candidates' own words, given to the newsroom. They are claims, not verified facts — attribute them to the candidate, not to the newsroom.
-    · These are the newsroom's summaries of candidates' positions, written and edited by the named reporters. Attribute them to the newsroom — say what it reports a candidate supports, not what the candidate said. Do not present them as quotes.
+    · These are the newsroom's summaries of candidates' positions, written and edited by its journalists. Attribute them to the newsroom — say what it reports a candidate supports, not what the candidate said. Do not present them as quotes.
   Calling a reporter's summary a candidate quote misquotes the candidate. Hedging
   a newsroom's edited reporting as an unverified claim understates it. Read the
   label on each passage rather than assuming.

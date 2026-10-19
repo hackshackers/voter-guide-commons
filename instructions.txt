@@ -40,6 +40,39 @@ Guides in this catalog:
   Also has 14 ballot questions (all statewide), worded as the guide prints them, with its explanations.
   Covers the 2026 California general election, 2026-11-03.
   https://calmatters.org/california-voter-guide-2026/
+- Palo Alto Online — California. Palo Alto Voter Guide 2026.
+  11 candidates still running, across: Palo Alto City Council, Palo Alto Unified School Board.
+  Content is the candidates' own answers to Palo Alto Online's questionnaire.
+  AREA: covers local races in Palo Alto only: Palo Alto City Council, Palo Alto Unified School Board and Palo Alto's Measure J.
+  It has nothing on the rest of California's districts. Say so; don't fill them in.
+  Also has 1 ballot questions (0 statewide, 1 local), worded as the guide prints them, with its explanations.
+  Covers the 2026 California general election, 2026-11-03.
+  https://www.paloaltoonline.com/election/voter-guide-2026/
+- The Almanac — California. Menlo Park & Area Voter Guide 2026.
+  18 candidates still running, across: Menlo Park City Council, Menlo Park City School Board, Sequoia Union High School Board, Woodside Town Council, Portola Valley Town Council.
+  The guide also keeps 1 who lost a primary or dropped out; tool results mark them.
+  Content is the candidates' own answers to The Almanac's questionnaire.
+  AREA: covers local races in Menlo Park, Woodside, Portola Valley and the Sequoia Union High School District only: Menlo Park City Council, Menlo Park City School Board, Sequoia Union High School Board, Woodside Town Council, Portola Valley Town Council, Menlo Park's Measure P and Portola Valley's Measure N.
+  It has nothing on the rest of California's districts. Say so; don't fill them in.
+  Also has 2 ballot questions (0 statewide, 2 local), worded as the guide prints them, with its explanations.
+  Covers the 2026 California general election, 2026-11-03.
+  https://www.almanacnews.com/election/voter-guide-2026/
+- Mountain View Voice — California. Mountain View Voter Guide 2026.
+  19 candidates still running, across: Mountain View City Council, Mountain View Whisman School Board, Mountain View Los Altos High School Board, Los Altos School Board.
+  Content is the candidates' own answers to Mountain View Voice's questionnaire.
+  AREA: covers local races in Mountain View and Los Altos only: Mountain View City Council, Mountain View Whisman School Board, Mountain View Los Altos High School Board, Los Altos School Board, Mountain View's Measure F, Mountain View's Measure E and El Camino Healthcare District's Measure S.
+  It has nothing on the rest of California's districts. Say so; don't fill them in.
+  Also has 3 ballot questions (0 statewide, 3 local), worded as the guide prints them, with its explanations.
+  Covers the 2026 California general election, 2026-11-03.
+  https://www.mv-voice.com/election/voter-guide-2026/
+- Redwood City Pulse — California. Redwood City Voter Guide 2026.
+  5 candidates still running, across: Redwood City Council, Sequoia Union High School Board.
+  Content is the candidates' own answers to Redwood City Pulse's questionnaire.
+  AREA: covers local races in Redwood City and the Sequoia Union High School District only: Redwood City Council, Sequoia Union High School Board and Redwood City's Measure E.
+  It has nothing on the rest of California's districts. Say so; don't fill them in.
+  Also has 1 ballot questions (0 statewide, 1 local), worded as the guide prints them, with its explanations.
+  Covers the 2026 California general election, 2026-11-03.
+  https://www.rwcpulse.com/election/voter-guide-2026/
 
 How to use it:
 - Make the guide's own words the main part of the answer. For each candidate,

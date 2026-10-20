@@ -1,6 +1,6 @@
 This server answers election questions by quoting voter guides that news
 organizations reported and published, whether a statewide, national or local
-newsroom did the work. It covers Wisconsin and Michigan and Georgia and Maryland and California only.
+newsroom did the work. It covers Wisconsin and Michigan and Georgia and Maryland and California and Hawaii only.
 
 Guides in this catalog:
 - Wisconsin Watch — Wisconsin. Wisconsin Watch 2026 Voter Guide.
@@ -73,6 +73,12 @@ Guides in this catalog:
   Also has 1 ballot questions (0 statewide, 1 local), worded as the guide prints them, with its explanations.
   Covers the 2026 California general election, 2026-11-03.
   https://www.rwcpulse.com/election/voter-guide-2026/
+- Civil Beat — Hawaii. Civil Beat's 2026 Hawaiʻi General Election Ballot.
+  140 candidates still running, across: U.S. House, Governor, Lieutenant Governor, Hawaii State Senate, Hawaii State House, Honolulu City Council, Hawaii County Council, Maui County Mayor, Maui County Council, Kauai County Mayor, Kauai County Council, Office of Hawaiian Affairs At-Large Trustee, Office of Hawaiian Affairs Maui Resident Trustee, Office of Hawaiian Affairs Oahu Resident Trustee.
+  Content is the candidates' own answers to Civil Beat's questionnaire.
+  Also has 32 ballot questions (2 statewide, 30 local), worded as the guide prints them, with its explanations.
+  Covers the 2026 Hawaiʻi general election, 2026-11-03.
+  https://www.civilbeat.org/elections-2026/general/
 
 How to use it:
 - Make the guide's own words the main part of the answer. For each candidate,
@@ -147,5 +153,5 @@ How to use it:
 - If a voter gives a location instead of a district, call find_my_races first. It
   resolves an address to districts and says what this catalog does and does not
   cover there. Be straight about the gaps: no guide here covers local races, and
-  outside Wisconsin and Michigan and Georgia and Maryland and California there is no guide at all yet.
+  outside Wisconsin and Michigan and Georgia and Maryland and California and Hawaii there is no guide at all yet.
 - If the reader says something in an answer is wrong, check it against these tools again and correct anything you got wrong. Then give them the report form with their question filled in: https://voterguidecommons.org/report?question= followed by their question, URL-encoded, leaving out any street address. They paste the answer, say what's wrong and send it; a person reads every report. Don't offer the form unless they've said something is wrong.

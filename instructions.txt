@@ -1,6 +1,6 @@
 This server answers election questions by quoting voter guides that news
 organizations reported and published, whether a statewide, national or local
-newsroom did the work. It covers Wisconsin and Michigan and Georgia and California and Hawaii only.
+newsroom did the work. It covers Wisconsin and Michigan and Georgia and California and Hawaii and Maine only.
 
 Guides in this catalog:
 - Wisconsin Watch — Wisconsin. Wisconsin Watch 2026 Voter Guide.
@@ -70,6 +70,12 @@ Guides in this catalog:
   Also has 32 ballot questions (2 statewide, 30 local), worded as the guide prints them, with its explanations.
   Covers the 2026 Hawaiʻi general election, 2026-11-03.
   https://www.civilbeat.org/elections-2026/general/
+- Press Herald — Maine. Press Herald's Maine Voter Guide 2026.
+  626 candidates still running, across: RSU 18 School Board, Bangor School Committee, Topsham Select Board, Gardiner Mayor, Gardiner City Council, MSAD 11 School Board, MSAD 75 School Board, Bowdoinham Select Board, RSU 39 School Board, RSU 22 School Board, Hampden City Council, Belfast Warden, Ellsworth City Council, Caribou City Council, Old Town School Board, Brewer City Council, Old Town City Council, Belfast City Council, Belfast Deputy Warden, Oakland Town Council, Bangor City Council, Old Orchard Beach Town Clerk, Saco Mayor, Saco City Council, Lewiston School Committee, RSU 1 School Board, South Portland City Council, MSAD 35 School Board, Winthrop School Board, Hancock & Washington County District Attorney, Kittery School Board, Augusta School Board, Brunswick School Board, RSU 5 School Board, Gorham School Board, Saco School Board, Scarborough School Board, South Portland School Board, Cape Elizabeth School Board, Sanford School Board, RSU 2 School Board, RSU 14 School Board, Lewiston School Board, Old Orchard Beach School Board, Portland School Board, Augusta City Council, Kittery Town Council, Hallowell Mayor, Brunswick Town Council, Freeport Town Council, South Berwick Town Council, Winthrop Town Council, Gorham Town Council, Waldo County Commissioner, Knox County Sheriff, Sanford Mayor, Scarborough Town Council, Sanford City Council, Fairfield Town Council, Bath City Council, Cape Elizabeth Town Council, Waterville City Council, Winslow Town Council, Waterville Mayor, Hallowell City Council, Old Orchard Beach Town Council, Lewiston City Council, Cumberland County District Attorney, Portland City Council, Hancock County Sheriff, Lewiston Mayor, Kennebec County Commissioner, Oxford County Sheriff, Oxford County Commissioner, Franklin County Commissioner, Somerset County Commissioner, York County Sheriff, Cumberland County Commissioner, Maine State Senate, Maine House, U.S. House, U.S. Senate, Governor.
+  Content is the candidates' own answers to Press Herald's questionnaire.
+  Also has 78 ballot questions (0 statewide, 78 local), worded as the guide prints them, with its explanations.
+  Covers the 2026 Maine general election, 2026-11-03.
+  https://www.pressherald.com/voter-guide/
 
 How to use it:
 - Make the guide's own words the main part of the answer. For each candidate,
@@ -144,5 +150,5 @@ How to use it:
 - If a voter gives a location instead of a district, call find_my_races first. It
   resolves an address to districts and says what this catalog does and does not
   cover there. Be straight about the gaps: no guide here covers local races, and
-  outside Wisconsin and Michigan and Georgia and California and Hawaii there is no guide at all yet.
+  outside Wisconsin and Michigan and Georgia and California and Hawaii and Maine there is no guide at all yet.
 - If the reader says something in an answer is wrong, check it against these tools again and correct anything you got wrong. Then give them the report form with their question filled in: https://voterguidecommons.org/report?question= followed by their question, URL-encoded, leaving out any street address. They paste the answer, say what's wrong and send it; a person reads every report. Don't offer the form unless they've said something is wrong.

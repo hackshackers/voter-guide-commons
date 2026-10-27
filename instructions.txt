@@ -1,6 +1,6 @@
 This server answers election questions by quoting voter guides that news
 organizations reported and published, whether a statewide, national or local
-newsroom did the work. It covers Wisconsin and Michigan and Georgia and California and Hawaii and Maine only.
+newsroom did the work. It covers Wisconsin and Michigan and Georgia and California and Hawaii and Maine and Minnesota and Delaware and Maryland and Virginia only.
 
 Guides in this catalog:
 - Wisconsin Watch — Wisconsin. Wisconsin Watch 2026 Voter Guide.
@@ -76,6 +76,32 @@ Guides in this catalog:
   Also has 78 ballot questions (0 statewide, 78 local), worded as the guide prints them, with its explanations.
   Covers the 2026 Maine general election, 2026-11-03.
   https://www.pressherald.com/voter-guide/
+- Sahan Journal — Minnesota. Sahan Journal's 2026 school board candidate interviews.
+  16 candidates still running, across: Minneapolis School Board, St. Paul School Board.
+  Content is the candidates' own answers to Sahan Journal's questionnaire.
+  AREA: covers the Minneapolis and St. Paul school board races only: Minneapolis's at-large seats and Districts 1, 3 and 5, and St. Paul's at-large seats.
+  It has nothing on the rest of Minnesota's districts. Say so; don't fill them in.
+  Covers the 2026 Minnesota general election, 2026-11-03.
+  https://sahanjournal.com/minnesota-midterm-election-2026/
+- WBOC — Delaware. WBOC's Delmarva General Election Voter Guide.
+  124 candidates still running, across: U.S. House, U.S. Senate, Attorney General, Auditor of Accounts, State Treasurer, State Representative, State Senator, Kent County Levy Court, Kent County Recorder of Deeds, Kent County Sheriff, New Castle County Council, New Castle County Recorder of Deeds, New Castle County Register of Wills, New Castle County Sheriff, Sussex County Council, Sussex County Recorder of Deeds, Sussex County Register of Wills, Sussex County Sheriff.
+  Content is the candidates' own answers to WBOC's questionnaire.
+  Covers the 2026 Delaware general election, 2026-11-03.
+  https://www.wboc.com/elections/voting-guide/
+- WBOC — Maryland. WBOC's Delmarva General Election Voter Guide.
+  214 candidates still running, across: U.S. House, Attorney General, Comptroller, Governor, Judge, Appellate Court of Maryland (At Large), Lieutenant Governor, House of Delegates, State Senator, Judge of the Circuit Court, Caroline County Clerk of the Circuit Court, Caroline County Commissioner, Caroline County Judge of the Orphans' Court, Caroline County Register of Wills, Caroline County Sheriff, Caroline County State's Attorney, Caroline County Board of Education, Dorchester County Council, Dorchester County Clerk of the Circuit Court, Dorchester County Register of Wills, Dorchester County Sheriff, Dorchester County State's Attorney, Dorchester County Judge of the Orphans' Court, Dorchester County Board of Education, Kent County Board of Education, Kent County Clerk of the Circuit Court, Kent County Commissioner, Kent County Judge of the Orphans' Court, Kent County Register of Wills, Kent County Sheriff, Kent County State's Attorney, Queen Anne's County Board of Education, Queen Anne's County Clerk of the Circuit Court, Queen Anne's County Commissioner, Queen Anne's County Judge of the Orphans' Court, Queen Anne's County Register of Wills, Queen Anne's County Sheriff, Queen Anne's County State's Attorney, Somerset County Commissioner, Somerset County Clerk of the Circuit Court, Somerset County Judge of the Orphans' Court, Somerset County Register of Wills, Somerset County Sheriff, Somerset County State's Attorney, Somerset County Board of Education, Talbot County Clerk of the Circuit Court, Talbot County Council, Talbot County Judge of the Orphans' Court, Talbot County Register of Wills, Talbot County Sheriff, Talbot County State's Attorney, Talbot County Board of Education, Wicomico County Clerk of the Circuit Court, Wicomico County Executive, Wicomico County Council, Wicomico County Judge of the Orphans' Court, Wicomico County Register of Wills, Wicomico County Sheriff, Wicomico County State's Attorney, Wicomico County Board of Education, Worcester County Clerk of the Circuit Court, Worcester County Commission, Worcester County Judge of the Orphans' Court, Worcester County Register of Wills, Worcester County Sheriff, Worcester County State's Attorney, Worcester County Board of Education.
+  Content is the candidates' own answers to WBOC's questionnaire.
+  AREA: covers Maryland's Eastern Shore: the statewide offices, U.S. House District 1, legislative Districts 36, 37 and 38, the First and Second Judicial Circuits and county races in Caroline, Dorchester, Kent, Queen Anne's, Somerset, Talbot, Wicomico and Worcester counties.
+  It has nothing on the rest of Maryland's districts. Say so; don't fill them in.
+  Covers the 2026 Maryland general election, 2026-11-03.
+  https://www.wboc.com/elections/voting-guide/
+- WBOC — Virginia. WBOC's Delmarva General Election Voter Guide.
+  6 candidates still running, across: U.S. House, U.S. Senate.
+  Content is the candidates' own answers to WBOC's questionnaire.
+  AREA: covers Accomack County: the U.S. Senate race and U.S. House District 2.
+  It has nothing on the rest of Virginia's districts. Say so; don't fill them in.
+  Covers the 2026 Virginia general election, 2026-11-03.
+  https://www.wboc.com/elections/voting-guide/
 
 How to use it:
 - Make the guide's own words the main part of the answer. For each candidate,
@@ -150,5 +176,5 @@ How to use it:
 - If a voter gives a location instead of a district, call find_my_races first. It
   resolves an address to districts and says what this catalog does and does not
   cover there. Be straight about the gaps: no guide here covers local races, and
-  outside Wisconsin and Michigan and Georgia and California and Hawaii and Maine there is no guide at all yet.
+  outside Wisconsin and Michigan and Georgia and California and Hawaii and Maine and Minnesota and Delaware and Maryland and Virginia there is no guide at all yet.
 - If the reader says something in an answer is wrong, check it against these tools again and correct anything you got wrong. Then give them the report form with their question filled in: https://voterguidecommons.org/report?question= followed by their question, URL-encoded, leaving out any street address. They paste the answer, say what's wrong and send it; a person reads every report. Don't offer the form unless they've said something is wrong.

@@ -102,6 +102,13 @@ Guides in this catalog:
   It has nothing on the rest of Virginia's districts. Say so; don't fill them in.
   Covers the 2026 Virginia general election, 2026-11-03.
   https://www.wboc.com/elections/voting-guide/
+- Eden Prairie Local News — Minnesota. Eden Prairie Local News 2026 Voter Guide.
+  29 candidates still running, across: Eden Prairie School Board, Eden Prairie Mayor, Eden Prairie City Council, Three Rivers Park District Board of Commissioners, Hennepin County Attorney, Hennepin County Sheriff, Minnesota Senate, Minnesota House, U.S. House.
+  Content is the candidates' own answers to Eden Prairie Local News' questionnaire.
+  AREA: covers the races on Eden Prairie's ballot: Eden Prairie mayor, City Council and School Board, Three Rivers Park District 5, Hennepin County attorney and sheriff, Minnesota Senate District 49, Minnesota House Districts 49A and 49B, and U.S. House District 3.
+  It has nothing on the rest of Minnesota's districts. Say so; don't fill them in.
+  Covers the 2026 Minnesota general election, 2026-11-03.
+  https://eplocalnews.org/category/voter-guide-2026/
 
 How to use it:
 - Make the guide's own words the main part of the answer. For each candidate,

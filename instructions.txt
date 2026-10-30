@@ -1,6 +1,6 @@
 This server answers election questions by quoting voter guides that news
 organizations reported and published, whether a statewide, national or local
-newsroom did the work. It covers Wisconsin and Michigan and Georgia and California and Hawaii and Maine and Minnesota and Delaware and Maryland and Virginia only.
+newsroom did the work. It covers Wisconsin and Michigan and Georgia and California and Hawaii and Maine and Minnesota and Delaware and Maryland and Virginia and Connecticut only.
 
 Guides in this catalog:
 - Wisconsin Watch — Wisconsin. Wisconsin Watch 2026 Voter Guide.
@@ -109,6 +109,12 @@ Guides in this catalog:
   It has nothing on the rest of Minnesota's districts. Say so; don't fill them in.
   Covers the 2026 Minnesota general election, 2026-11-03.
   https://eplocalnews.org/category/voter-guide-2026/
+- CT Mirror — Connecticut. Connecticut General Election 2026 Voter Guide.
+  370 candidates still running, across: Governor, Lieutenant Governor, Secretary of the State, Treasurer, Comptroller, Attorney General, U.S. House, Connecticut State Senate, Connecticut State House.
+  Content is CT Mirror's reporting on where candidates stand, written by
+  its journalists — not quotes from the candidates.
+  Covers the 2026 Connecticut general election, 2026-11-03.
+  https://ctmirror.org/2026/10/19/connecticut-general-election-2026-voter-guide/
 
 How to use it:
 - Make the guide's own words the main part of the answer. For each candidate,
@@ -183,5 +189,5 @@ How to use it:
 - If a voter gives a location instead of a district, call find_my_races first. It
   resolves an address to districts and says what this catalog does and does not
   cover there. Be straight about the gaps: no guide here covers local races, and
-  outside Wisconsin and Michigan and Georgia and California and Hawaii and Maine and Minnesota and Delaware and Maryland and Virginia there is no guide at all yet.
+  outside Wisconsin and Michigan and Georgia and California and Hawaii and Maine and Minnesota and Delaware and Maryland and Virginia and Connecticut there is no guide at all yet.
 - If the reader says something in an answer is wrong, check it against these tools again and correct anything you got wrong. Then give them the report form with their question filled in: https://voterguidecommons.org/report?question= followed by their question, URL-encoded, leaving out any street address. They paste the answer, say what's wrong and send it; a person reads every report. Don't offer the form unless they've said something is wrong.
